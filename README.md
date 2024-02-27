@@ -11,3 +11,5 @@ Consigli:
 - Ricordiamoci di incrementare il contatore, o comunque di inserire una condizione di uscita, all’interno ciclo while
 
 ## SVOLGIMENTO
+1. creo array con la lista della spesa 
+2. ciclo while per stampare la lista della spesa
